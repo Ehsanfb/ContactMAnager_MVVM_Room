@@ -39,6 +39,8 @@ public class ContactViewModel extends AndroidViewModel {
         contactRepository.clearCompositeDisposable();
     }
 
+    /*new comments for me*/
+
     public LiveData<List<Contact>> getLiveDataVM(){
         mLiveData = contactRepository.getLiveData();
         return mLiveData;

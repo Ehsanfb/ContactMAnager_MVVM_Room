@@ -38,6 +38,8 @@ public class ContactRepository {
 
         getLiveData();
 
+        /*new comments for me*/
+
     }
 
     public LiveData<List<Contact>> getLiveData() {
