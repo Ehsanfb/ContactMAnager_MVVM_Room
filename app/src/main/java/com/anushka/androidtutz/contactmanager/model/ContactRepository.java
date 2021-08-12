@@ -38,7 +38,6 @@ public class ContactRepository {
 
         getLiveData();
 
-        /*new comments for me*/
 
     }
 

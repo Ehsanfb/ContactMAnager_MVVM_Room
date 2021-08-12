@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
     private ContactViewModel contactViewModel;
 
 
-    /*new comments for me*/
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
